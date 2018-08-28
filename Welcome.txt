@@ -1,0 +1,2 @@
+Hi,
+this is mY First Git HUB and Git Clone
