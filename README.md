@@ -1,1 +1,1 @@
-# Gitconfig
+# Medcon Code.
